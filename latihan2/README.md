@@ -18,10 +18,7 @@
 6.) print("Bilangan terbesar adalah : ",max)
  print nilai terbesar, variabel max
 
-<br/>
-Berikut Flowchartnya <br/>
-![alt text](https://raw.githubusercontent.com/arkyana/labpy03/master/latihan2/img/flow.png)
-
-<br/>
-Berikut Screenshotnya <br/>
-![alt text](https://raw.githubusercontent.com/arkyana/labpy03/master/latihan2/img/ss.png)
+Berikut Flowchartnya : </br>
+![alt text](https://raw.githubusercontent.com/arkyana/labpy03/master/latihan2/img/flow.png)</br>
+Berikut Screenshotnya : </br>
+![alt text](https://raw.githubusercontent.com/arkyana/labpy03/master/latihan2/img/ss.png)</br>

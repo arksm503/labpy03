@@ -17,12 +17,9 @@
    a = angka random sesuai syarat nomer 4
 
 6.) print("Selesai")
- prnt Selesai di luar looping
+ print Selesai di luar looping
 
-<br/>
-Berikut Flowchartnya <br/>
-![alt text](https://raw.githubusercontent.com/arkyana/labpy03/master/latihan1/img/flow.png)
-
-<br/>
-Berikut Screenshotnya <br/>
-![alt text](https://raw.githubusercontent.com/arkyana/labpy03/master/latihan1/img/ss.png)
+Berikut Flowchartnya : </br>
+![alt text](https://raw.githubusercontent.com/arkyana/labpy03/master/latihan1/img/flow.png)</br>
+Berikut Screenshotnya : </br>
+![alt text](https://raw.githubusercontent.com/arkyana/labpy03/master/latihan1/img/ss.png)</br>

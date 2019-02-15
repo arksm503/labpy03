@@ -27,10 +27,7 @@
 9.) print("Total laba adalah :", sum)
  print total laba
 
-<br/>
-Berikut Flowchartnya <br/>
-![alt text](https://raw.githubusercontent.com/arkyana/labpy03/master/program1/img/flow.png)
-
-<br/>
-Berikut Screenshotnya <br/>
-![alt text](https://raw.githubusercontent.com/arkyana/labpy03/master/program1/img/ss.png)
+Berikut Flowchartnya : </br>
+![alt text](https://raw.githubusercontent.com/arkyana/labpy03/master/program1/img/flow.png)</br>
+Berikut Screenshotnya : </br>
+![alt text](https://raw.githubusercontent.com/arkyana/labpy03/master/program1/img/ss.png)</br>
